@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "description": "STARTER-PACK Gulp+Bower+Sass+Browser-sync+Wiredep",
+  "main": "index.js",
+  "authors": [
+    "Nicat Bayramov <bayramovn@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nbayramov/starterpack",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "normalize-css": "^4.1.1"
+  }
+}
