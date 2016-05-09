@@ -5,3 +5,7 @@ Main tasks:
  - Sass compiler
  - Sass error handler
  - Bower autoinjector
+
+Usage:
+ 1. npm install
+ 2. npm start
